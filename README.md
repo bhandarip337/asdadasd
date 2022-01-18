@@ -28,10 +28,6 @@ _``Unit 3``_ : **Advance Server Side Scripting.**
 -----------------------------------
 ## Support
 
-If you are having issues, please let me know.
+If you are having issues and there is any mistakes, please let me know.
 
 **Email: bhandariprashant666@gmail.com**
-
-|                 Email                 |
-|:-------------------------------------:|
-|   bhandariprashant666@gmail.com   |
