@@ -30,5 +30,8 @@ _``Unit 3``_ : **Advance Server Side Scripting.**
 
 If you are having issues, please let me know.
 
-**Email: ``bhandariprashant666@gmail.com``**
+**Email: bhandariprashant666@gmail.com**
 
+|                 Email                 |
+|:-------------------------------------:|
+|   bhandariprashant666@gmail.com   |
