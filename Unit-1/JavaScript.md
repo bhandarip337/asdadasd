@@ -32,7 +32,7 @@ An ``Operating System (OS)`` is system software that manages computer hardware, 
 
 An ``Operating System (OS)`` is a large collection of system software, which manages the resources of computer system such as ``memory``, ``storage``, ``processor``, ``I/O devices`` and it also acts as an interface between machine and user. Moreover, it also performs the basic tasks such as reorganization of peripherial devices, sending-recieving information to the external sources keeping task of files, folders on the disk and other different utility task.
 
-!["Operating System"](OS1.svg)
+!["Operating System"](OS1.png)
 
 ### **Generation of Operating System**
 
