@@ -32,7 +32,22 @@ An ``Operating System (OS)`` is system software that manages computer hardware, 
 
 An ``Operating System (OS)`` is a large collection of system software, which manages the resources of computer system such as ``memory``, ``storage``, ``processor``, ``I/O devices`` and it also acts as an interface between machine and user. Moreover, it also performs the basic tasks such as reorganization of peripherial devices, sending-recieving information to the external sources keeping task of files, folders on the disk and other different utility task.
 
-!["Operating System"](OS1.png)
+The organization or architecture of OS deals with the internal structure of OS, mainly is divided into 3 layers as shown in figure below:
+
+<div align="center">
+
+!["Operating System"](pic/OS.png)
+
+</div>
+
+>Fig: Architecture of Operating System
+
+- **``Kernel``**: A main part of OS always remains in the main memory during the running of computer called ``kernel``. It is the main controlling part of OS which controls all running programs and hardware resources.
+
+- **``Utility Software``**: Outside this layer, there is a set of utility programs which are used as a system management tool, also known as house keepingwork of OS.Utility programs help manage, maintain and control computer resources. These programs are available to help you with the day-to-day chores associated with personal computing and to keep your system running at peak performance.
+
+- **``Application Software``**: Application software is developed in order to fulfill user requirements. Different Application software is available in the market as readymade software. Some of them are developed on the user's demand called tailored software.
+
 
 ### **Generation of Operating System**
 
