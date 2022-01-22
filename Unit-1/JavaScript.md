@@ -36,7 +36,7 @@ The organization or architecture of OS deals with the internal structure of OS, 
 
 <div align="center">
 
-!["Operating System"](pic/OS.png)
+!["Operating System"](OS.png)
 
 </div>
 
